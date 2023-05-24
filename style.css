@@ -1,0 +1,25 @@
+body{
+    background-color:#27374D;
+}
+img{
+    height: 300px;
+    width: 700px;
+    margin-left: 400px;
+    margin-top: 100px
+    
+}
+h1{
+    color:whitesmoke;
+    margin-left: 530px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
+p{
+    margin-left: 400px;
+    font-size: 30px;
+    margin-left: 400px;
+    color: aquamarine;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair', serif;
+}
+ 
